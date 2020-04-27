@@ -1,7 +1,8 @@
-# [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+# [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-- [10DaysOfJavaScript](#10daysofjavascript)
+- [30-DaysOfCode-With-Python-And-JavaScript](#30-daysofcode-with-python-and-javascript)
   - [Introduction](#introduction)
+  - [Get Started](#get-started)
   - [Difficulty Level](#difficulty-level)
   - [Usage](#usage)
   - [Support](#support)
@@ -13,8 +14,12 @@
 
 ## Introduction
 
-- HackerRank 10DaysOfJavaScript Challenge.
-- Check [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Challenge.
+- HackerRank 30-DaysOfCode-With-Python-And-JavaScript
+- Check [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code) Challenge.
+
+## Get Started
+
+Download [Python 3](https://python.org/downloads)
 
 ## Difficulty Level
 
@@ -57,8 +62,8 @@ For open-source projects, Under MIT License.
 
 ## Author
 
-- Project: [10DaysOfJavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- Project: [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - Author: CodePerfectPlus
-- Language: JavaScript
+- Language: JavaScript And Python
 - Github: <https://github.com/codePerfectPlus>
 - Website: <http://codeperfectplus.github.io/>
