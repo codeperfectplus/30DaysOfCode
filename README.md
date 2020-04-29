@@ -1,6 +1,6 @@
-# [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+# [30DaysOfCode](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-- [30-DaysOfCode-With-Python-And-JavaScript](#30-daysofcode-with-python-and-javascript)
+- [30DaysOfCode](#30daysofcode)
   - [Introduction](#introduction)
   - [Get Started](#get-started)
   - [Difficulty Level](#difficulty-level)
@@ -14,8 +14,8 @@
 
 ## Introduction
 
-- HackerRank 30-DaysOfCode-With-Python-And-JavaScript
-- Check [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code) Challenge.
+- HackerRank 30DaysOfCode Challenge Sollution With Python and JavaScript
+- Check [30DaysOfCode](https://www.hackerrank.com/domains/tutorials/30-days-of-code) Challenge.
 
 ## Get Started
 
@@ -30,11 +30,12 @@ Hackerrank has around 5 levels of difficulty:
 - Hard
 - Expert
 - Advanced.
+
 I suggest you pick a certain language and start with the warmup challenges to get used to the environment.
 
 ## Usage
 
-A good way to start learning python concept.
+A good way to start learning python and Javascript concept.
 
 ## Support
 
@@ -62,7 +63,7 @@ For open-source projects, Under MIT License.
 
 ## Author
 
-- Project: [30-DaysOfCode-With-Python-And-JavaScript](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- Project: [30DaysOfCode](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 - Author: CodePerfectPlus
 - Language: JavaScript And Python
 - Github: <https://github.com/codePerfectPlus>
