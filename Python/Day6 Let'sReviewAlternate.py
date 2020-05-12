@@ -3,15 +3,16 @@
 
 
 def solution(string):
-    even = ''
-    odd = '' 
+    even = ""
+    odd = ""
     for j in range(len(string)):
-        if(j%2==0):
+        if j % 2 == 0:
             even = even + string[j]
         else:
             odd = odd + string[j]
-    print(even+ ' '+ odd)
-    
+    print(even + " " + odd)
+
+
 N = int(input())
 for i in range(0, N):
     string = input()
